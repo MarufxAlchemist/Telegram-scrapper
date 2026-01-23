@@ -235,4 +235,4 @@ The developers are not responsible for misuse of this tool.
 
 ---
 
-**Made with ❤️ by [Maruf Nadaf](https://github.com/MarufxAlchemist)**
+**Made by [Maruf Nadaf](https://github.com/MarufxAlchemist)**
