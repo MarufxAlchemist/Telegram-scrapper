@@ -60,7 +60,7 @@ Simply run the script and enter your credentials when prompted.
 ### 4. Get Your Telegram API Credentials
 
 1. Visit [https://my.telegram.org/apps](https://my.telegram.org/apps)
-2. Log in with your phone number
+2. Log in with your phone number.
 3. Click on "API development tools"
 4. Fill in the application details (any name/description works)
 5. Copy your `api_id` and `api_hash`
