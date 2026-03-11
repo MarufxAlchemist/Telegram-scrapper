@@ -13,7 +13,7 @@ A powerful Python command-line tool for scraping messages from Telegram channels
 - 📊 **CSV Export** - Automatically exports scraped data to organized CSV files.
 - 📝 **Rich Metadata** - Captures message IDs, dates, authors, reply counts, and more.
 - 🎯 **User-Friendly CLI** - Interactive prompts guide you through the scraping process.
-- 🔄 **Batch Processing** - Efficiently handles large message volumes
+- 🔄 **Batch Processing** - Efficiently handles large message volumes.
 - 📁 **Organized Output** - Creates timestamped folders for each scraping session
 
 ## 📋 Requirements
