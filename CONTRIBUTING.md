@@ -8,7 +8,7 @@ Thank you for your interest in contributing to Telegram Channel Scraper! We welc
 
 If you find a bug, please create an issue with:
 - A clear, descriptive title.
-- Detailed steps to reproduce the issue
+- Detailed steps to reproduce the issue.
 - Expected vs. actual behavior
 - Your environment (OS, Python version, etc.)
 - Any relevant error messages or logs
