@@ -11,7 +11,7 @@ If you find a bug, please create an issue with:
 - Detailed steps to reproduce the issue.
 - Expected vs. actual behavior
 - Your environment (OS, Python version, etc.)
-- Any relevant error messages or logs
+- Any relevant error messages or logs.
 
 ### Suggesting Features
 
